@@ -1,3 +1,5 @@
 https://github.com/GermanPinto/TiendaJuegosPS
 
 agregué un tooltip en la sección de quienes somos, en el div con la montaña.
+
+(voy a hacer este cambio pero se verá solo reflejado en la nueva rama y no en master)
