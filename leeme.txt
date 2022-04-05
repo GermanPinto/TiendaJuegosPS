@@ -1,0 +1,3 @@
+https://github.com/GermanPinto/TiendaJuegosPS
+
+agregué un tooltip en la sección de quienes somos, en el div con la montaña.
